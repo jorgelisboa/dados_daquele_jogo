@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.diceAmount {
+    font-size: 128px;
+}
+.dicesList {
+    font-weight: bolder;
+    font-size: 32px;
+}

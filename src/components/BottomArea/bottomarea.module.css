@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin: 24px auto 16px auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.diceQuantity {
+    font-size: 40px;
+}
+
+.button {
+    width: 95%;
+    max-width: 256px;
+    background-color: #000;
+    color: #fff;
+    padding: 16px;
+    border-radius: 16px;
+}
+
+.button:hover {
+    background-color: rgba(0, 0, 0, 0.815);
+}
